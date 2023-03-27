@@ -675,6 +675,10 @@
       main  h1{
           margin-left: 1rem;
       }
+          
+      main .date{
+          margin-left: 1rem;
+      }    
 
       main .date input[type="date"] {
           display: block;

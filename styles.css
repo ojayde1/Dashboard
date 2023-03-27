@@ -688,9 +688,9 @@
           margin: 0 1rem 0 1rem;
       }
           
-        .progress svg circle {
-           r: -24px; 
-      }
+     main .insights .progress-circle[data-progress="81"] circle {
+    stroke-dasharray: calc(90 * var(--circumference) / 100) var(--circumference);
+     }
      main .recent-orders{
           position: relative;
           margin:  2rem 0 0 0;

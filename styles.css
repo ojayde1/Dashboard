@@ -726,6 +726,12 @@
           display: none;
      }
 
+     .right .profile {
+          display: flex;
+          justify-content: flex-end;
+        }
+      
+
      .right .top button{
           display: inline-block;
           background: transparent;

@@ -689,7 +689,7 @@
       }
           
         .progress svg circle {
-           r: 24px; 
+           r: -24px; 
       }
      main .recent-orders{
           position: relative;

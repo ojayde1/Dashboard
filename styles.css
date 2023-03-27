@@ -676,9 +676,10 @@
           margin-left: 1rem;
       }
 
-      main .date{
-          margin-left: 1rem;
-      }
+      main .date input[type="date"] {
+          display: block;
+          width: 100%;
+        }
       main .insights {
           margin: 0 1rem 0 1rem;
       }

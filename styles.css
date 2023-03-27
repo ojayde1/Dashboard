@@ -262,7 +262,7 @@
      padding: 0.6rem 1.3rem;
     }
 
-    main .date input{
+     main .date input[input="date"]{
      background: transparent;
      color: var(--color-dark);
     }
@@ -731,10 +731,10 @@
           display: none;
      }
 
-    .right .profile .profile-photo img {
-          display: flex;
-          justify-content: flex-end;
+    .right .top .profile-photo img {
+          float: right; 
         }
+      
       
 
      .right .top button{

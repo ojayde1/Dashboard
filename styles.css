@@ -726,7 +726,7 @@
           display: none;
      }
 
-     .right .profile {
+    .right .profile .profile-photo img {
           display: flex;
           justify-content: flex-end;
         }
